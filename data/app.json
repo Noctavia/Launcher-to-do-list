@@ -1,0 +1,12 @@
+[
+    {
+      "name": "Google Chrome",
+      "path": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+      "launch_count": 5
+    },
+    {
+      "name": "Visual Studio Code",
+      "path": "C:/Users/User/AppData/Local/Programs/Microsoft VS Code/Code.exe",
+      "launch_count": 12
+    }
+  ]
